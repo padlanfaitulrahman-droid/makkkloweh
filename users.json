@@ -1,9 +1,6 @@
 {
   "roles": {
-    "1814769232": "EXECUTOR",
-    "7822513730": "EXECUTOR",
-    "5670675648": "EXECUTOR",
-    "8789352674": "EXECUTOR",
-    "8098526754": "EXECUTOR"
-  }
+    "7822513730": "owner"
+  },
+  "botSlots": {}
 }
