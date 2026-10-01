@@ -53,6 +53,9 @@
     "inputUsername": "@makkkloweh",
     "role": "RESELLER",
     "tanggal": "2026-10-01T16:27:41.370Z",
-    "status": "pending"
+    "status": "rejected",
+    "rejectedBy": "1485981151",
+    "rejectedByName": "𝐱𝐞𝐫𝐨𝐳 𝒇𝒐𝒓𝒕𝒘𝒚𝒏𝒕𝒚",
+    "rejectedAt": "2026-10-01T16:27:52.115Z"
   }
 ]
